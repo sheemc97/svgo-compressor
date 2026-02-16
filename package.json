@@ -23,7 +23,7 @@
   "author": "Sketch",
   "devDependencies": {
     "@skpm/builder": "0.8.0",
-    "serialize-javascript": "6.0.0"
+    "serialize-javascript": "6.0.2"
   },
   "repository": "https://github.com/sketch-hq/svgo-compressor",
   "dependencies": {
